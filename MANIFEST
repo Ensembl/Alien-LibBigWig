@@ -1,0 +1,8 @@
+Build.PL
+Changes
+lib/Alien/LibBigWig.pm
+LICENSE
+MANIFEST			This list of files
+README
+t/basic.t
+t/compile.t
