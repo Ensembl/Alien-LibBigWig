@@ -1,5 +1,5 @@
 package Alien::LibBigWig;
-$Alien::LibBigWig::VERSION = '0.3.1';
+$Alien::LibBigWig::VERSION = '0.3.3';
 
 use strict;
 use warnings;
@@ -34,7 +34,7 @@ __END__
   well-known location, "File::ShareDir::dist_dir('Alien-LibBigWig')", from
   whence other packages can make use of them.
 
-  The version installed will be version 0.3.1.
+  The version installed will be version 0.3.3.
 
 =head1 COPYRIGHT AND LICENSE
 
