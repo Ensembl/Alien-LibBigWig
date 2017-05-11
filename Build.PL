@@ -24,7 +24,7 @@ my $builder = Alien::Base::ModuleBuild->new(
     module_name        => 'Alien::LibBigWig',
     dist_abstract      => 'Installation of libBigWig for Perl',
     license            => 'open_source',
-    configure_requires => { 'Alien::Base::ModuleBuild' => 0, },
+    configure_requires => { 'Alien::Base::ModuleBuild' => 0, 'Alien::Base' => 0 },
     requires           => {
         'perl'        => '5.8.1',
         'Alien::Base' => 0,
