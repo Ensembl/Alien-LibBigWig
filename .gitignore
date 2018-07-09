@@ -27,3 +27,5 @@ nytprof.out
 t/data/*ai
 t/data/write_test_07.cram
 t/data/write_test_08.bam
+.vstags
+/*.tar.gz
